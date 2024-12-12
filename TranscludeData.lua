@@ -3,7 +3,7 @@
 TranscludeData
 --------------------------------------
 @Author Jono99
-@Version 0
+@Version 1
 See https://github.com/Jono997/TranscludeData for documentation and releases
 ======================================
 ]]--
