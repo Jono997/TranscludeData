@@ -30,3 +30,4 @@ Another method is directly grabbing data, like so: `{{#invoke:TranscludeData|Get
 - Data verification system
 - View structure verification system (will likely be using the data verification system under the hood)
 - Data override system (way to make data in the data module appear differently depending on which view is accessing it)
+- Way to add more functions to the views function library without editing TranscludeData directly
